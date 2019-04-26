@@ -1,5 +1,5 @@
 # Arduino_GSM
-PROGRAMMABLE LOAD SHEDDING TIME MANAGEMENT for UTILITY DEPARTMENT
+PROGRAMMABLE LOAD SHEDDING TIME MANAGEMENT for UTILITY DEPARTMENT:
 Load shedding simply stated is a controlled temporary way of cutting power to parts of the country when there is not enough electricity to meet the needs of customers. This is as a result of a shortage of capacity and a high demand for electricity. 
 
 At some particular time demand is at peak and at some time load eases off. Any problem on the system such as a breakdown at a power generation station or on a transmission line, can impact the supply to customers. When this happens, the system is unable to meet the demand of customers.  Thus there was need to implement load shedding as a last resort.
